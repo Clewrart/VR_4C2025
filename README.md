@@ -6,3 +6,4 @@
 - 计算机设计大赛国赛三等奖，July,2025
 ### 技术栈：Unity+C#+全息扫描建模
 ### 设备：Meta Quest 2，宿主电脑不低于32G内存和RTX3060
+### 视频:https://www.bilibili.com/video/BV1UgffBoEEU/?spm_id_from=333.1387.collection.video_card.click
